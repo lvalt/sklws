@@ -7,7 +7,6 @@ dependencies:
   - matplotlib
   - notebook
   - spacy
-  - spacy-model-en_core_web_md
+  - spacy-model-en_core_web_sm
   - pandas
   - openpyxl
-  - git
